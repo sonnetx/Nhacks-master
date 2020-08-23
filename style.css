@@ -69,3 +69,8 @@ h3 {
   font-style: italic;
   text-decoration: underline;
 }
+
+.game{
+  display: flex;
+  padding: 15 px;
+}
